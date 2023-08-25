@@ -1,2 +1,2 @@
 # happybirthday
-https://shibobo.github.io/happybirthday/
+https://github.com/tc17852841326/happy-birthday
